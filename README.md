@@ -1,0 +1,1 @@
+My work from [Use Vector Embeddings to Create an AI Assistant](https://www.freecodecamp.org/news/vector-embeddings-course/).

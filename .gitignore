@@ -1,0 +1,7 @@
+# Ignore environment secrets.
+.env
+token.txt
+variables.py
+
+# Python byte code
+__pycache__/
